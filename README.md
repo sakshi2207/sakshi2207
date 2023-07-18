@@ -2,10 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Sakshi Malik</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi2207&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi2207" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi2207" alt="sakshi2207" /></a> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sakshi2207&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi2207" /> </p>
+<div style="display: flex; align-items: center;">
+  <img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif" />
+  <p align="left" style="margin-left: 20px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi2207" alt="sakshi2207" /></a> </p>
+</div>
 
 - 🌱 I’m currently learning **Machine Learning**
 
