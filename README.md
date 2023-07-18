@@ -1,8 +1,8 @@
-[![MasterHead](https://i.pinimg.com/originals/0e/7b/b6/0e7bb68ed6cb499b06e43cf0fe2fa6ac.gif)](https://sakshi2207.io)
+[![MasterHead](https://anayacybertech.com/wp-content/uploads/2018/07/cstmswft-1170x341.jpg)](https://sakshi2207.io)
 
 <h1 align="center">Hi 👋, I'm Sakshi Malik</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif" />
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi2207&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi2207" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi2207" alt="sakshi2207" /></a> </p>
