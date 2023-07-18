@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <h1 align="left">Hi 👋, I'm Sakshi Malik</h1>
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=sakshi2207&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi2207" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=sakshi2207&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi2207" /> </p>
 </div>
 
 <h3 align="left">A passionate developer from India</h3>
