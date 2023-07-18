@@ -5,13 +5,15 @@
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=sakshi2207&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi2207" /> </p>
 </div>
 
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="left">A passionate developer from India</h3>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif" style="float: right; margin-left: 20px;">s
+  <img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif" style="float: right; margin-left: 20px;">
 </div>
 
 - 🌱 I’m currently learning **Machine Learning**
+
+- 🤝 I am open for open source contribution
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://sakshi2207.github.io/Portfolio/)
 
