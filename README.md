@@ -1,4 +1,4 @@
-[![MasterHead](https://anayacybertech.com/wp-content/uploads/2018/07/cstmswft-1170x341.jpg)](https://sakshi2207.io)
+[![MasterHead](https://anayacybertech.com/wp-content/uploads/2018/07/cstmswft-1170x341.jpg)](https://github.com/sakshi2207)
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <h1 align="left">Hi 👋, I'm Sakshi Malik</h1>
@@ -8,13 +8,12 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <img alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif" style="float: right; margin-left: 20px;">
-  <p style="flex: 1;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi2207" alt="sakshi2207" /></a> </p>
+  <img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif" style="float: right; margin-left: 20px;">s
 </div>
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://sakshi2207.github.io/Portfolio/](https://sakshi2207.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sakshi2207.github.io/Portfolio/)
 
 - 💬 Ask me about **Programming, Frontend Code, Backend code**
 
@@ -41,3 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshi2207&show_icons=true&locale=en" alt="sakshi2207" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi2207&" alt="sakshi2207" /></p>
+
+ <p style="flex: 1;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshi2207" alt="sakshi2207" /></a> </p>
